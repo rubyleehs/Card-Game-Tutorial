@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fe2707652098054791b2febc7df6389, type: 3}
+  m_Name: My Cards Down Area Logic
+  m_EditorClassIdentifier: 
+  card: {fileID: 11400000, guid: ab349a430f12b0b4bbbe2dbd52e5af45, type: 2}
+  creatureType: {fileID: 11400000, guid: 0d59034a6e584f44480afb5fea1279f9, type: 2}
+  areaGrid: {fileID: 11400000, guid: 28432ca7c8e2cca4a94bddea4e38d888, type: 2}
+  cardDownLogic: {fileID: 11400000, guid: 9086582d635957e4bbab6e1252af6f81, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72a2461c6c3fe746b8fef227d7c8f2d, type: 3}
+  m_Name: Card 2
+  m_EditorClassIdentifier: 
+  cardType: {fileID: 11400000, guid: 0d59034a6e584f44480afb5fea1279f9, type: 2}
+  cardProperties:
+  - stringValue: Minor Summon
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: 64c774deac68c4b4ca0d5fdc745229a3, type: 2}
+  - stringValue: Summon a random minor summon
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: 6d44e1dbc50105f479ab918c79534194, type: 2}
+  - stringValue: Cost
+    intValue: 2
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: 0dd4d75ae619ada42bf17ceee3619ac9, type: 2}
+  - stringValue: Background
+    intValue: 2
+    sprite: {fileID: 21300000, guid: 64af9f437381379459151bf9f1ba8f72, type: 3}
+    element: {fileID: 11400000, guid: 3cb331c897ce97a4eb7cd79b27184895, type: 2}
